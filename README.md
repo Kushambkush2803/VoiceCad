@@ -14,7 +14,8 @@ VoiceCAD is an AI-powered voice-controlled CAD assistant built using Python, Whi
 - Python
 - Whisper AI
 - Fusion 360 API
-- FFmpeg
+https://github.com/user-attachments/assets/b1fc73b6-dfd7-472e-8456-d17f11c6e7ae
+
 
 ## Workflow
 Voice Input → Speech Recognition → Command Parsing → Fusion 360 API → 3D Model
